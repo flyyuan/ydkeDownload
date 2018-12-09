@@ -1,0 +1,14 @@
+{
+    "name": "有道精品课视频下载",
+    "manifest_version": 2,
+    "version": "1.0",
+    "author":"BennyShi,https://github.com/flyyuan",
+    "description": "chrome扩展，下载有道精品课视频",
+    "browser_action": {"default_popup": "popup.html"},
+    "background": {
+        "scripts": ["background.js"]
+      },
+    "permissions": [
+        "*://*/*","tabs"
+    ]
+  }
