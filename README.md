@@ -4,9 +4,9 @@
 #### 下载链接：
 1、[百度yun下载链接](https://pan.baidu.com/s/1ADof7JwQzIKVxIppIoybug "Markdown")
 
-2、点击右上角“Clone or download”下载
+或者，点击右上角“Clone or download”下载
 
-3、解压压缩包
+2、解压压缩包
 
 ### 第二步:在Chrome浏览器中引入
 1、打开扩展程序
